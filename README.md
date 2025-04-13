@@ -6,7 +6,7 @@
 ### O que posso falar sobre mim?
 - :factory: :battery: Trabalho atualmente como programador na Logistíca da Acumuladores Moura :part_alternation_mark: .
 - :mortar_board: Formado em Ciência e Tecnologia - UFERSA.
-- :clock130: Curso em formação em Engenharia Eletríca (Focado em Eletrônica) - IFPE.
+- :clock130: Curso em formação de Engenharia Eletríca (Focado em Eletrônica) - IFPE.
 - :book: Estudos e pesquiso, para constante aprendizado, tecnologias para a aréa de backend (Principal aréa de interesse).
 - :book: Estudo e pesquiso na faculdade de eng. eletríca sobre eletrônica, microeletrônica e IoT.
 - :notes: Amo música.
