@@ -24,4 +24,7 @@
 ![GIT](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 
+### Roadmap De Estudos
+
+[![roadmap.sh](https://roadmap.sh/card/tall/65a6a4288240aa21a4a5f869?variant=dark&roadmaps=backend%2Cpython%2Cgit-github%2Cpostgresql-dba)](https://roadmap.sh)
 
